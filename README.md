@@ -1,2 +1,0 @@
-# recuperacao
- Otávio Matos Quieroz
