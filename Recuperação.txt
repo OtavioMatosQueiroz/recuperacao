@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title> Notas do alunos </title>
+	<p> Este é um site para verificar as notas dos alunos da escola do Heriberto Hulse </p>
+
+</head>
+
+<body style ="background-color:#f0f0f0">
+
+	<div>
+
+	<fonte-size:16px;>
+		
+	<table border = 10>
+	
+	<tr>
+		<th> Nome </th>
+		<th> matricula </th>
+		<th> notas </th>
+	</tr>
+
+	<tr>
+		<td> Emerson </td>
+		<td> 555 </td>
+		<td> 8 </td>
+	</tr>
+
+	<tr>
+		<td> Junior </td>
+		<td> 333 </td>
+		<td> 5 </td>
+	</tr>
+
+	<tr>
+		
+		<td> Pedro </td>
+		<td> 222 </td>
+		<td> 2 </td>
+		
+	</tr>
+
+	<tr>
+		
+		<td> João </td>
+		<td> 111 </td>
+		<td> 5 </td>
+		
+	</tr>
+
+</table>
+</body>
+</html>
